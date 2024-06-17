@@ -1,1 +1,1 @@
-niginx
+nginx
